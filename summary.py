@@ -30,6 +30,7 @@ def main():
     top = max(stores, key=stores.get)
 
     print(f"Rows: {len(rows)}")
+    print(f"Stores: {len(stores)}")
     print(f"Total sales: ${total:,.2f}")
     for store, amount in sorted(stores.items()):
         print(f"  {store}: ${amount:,.2f}")

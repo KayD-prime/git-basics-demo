@@ -1,0 +1,16 @@
+date,store,category,amount
+2026-10-01,Halifax,Grocery,1240.50
+2026-10-01,Toronto,Grocery,2310.00
+2026-10-01,Calgary,Home,860.25
+2026-10-02,Halifax,Home,415.00
+2026-10-02,Toronto,Toys,980.40
+2026-10-02,Calgary,Grocery,1675.80
+2026-10-03,Halifax,Toys,322.10
+2026-10-03,Toronto,Home,1105.00
+2026-10-03,Calgary,Toys,540.60
+2026-10-04,Halifax,Grocery,1380.75
+2026-10-04,Toronto,Grocery,2455.30
+2026-10-04,Calgary,Home,912.00
+2026-10-05,Halifax,Home,498.20
+2026-10-05,Toronto,Toys,1022.90
+2026-10-05,Calgary,Grocery,1730.45
